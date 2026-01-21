@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArvinFox.
+- 👋 Hi, I’m Arvin Premathilake.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Software Engineering.
 
